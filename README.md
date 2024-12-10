@@ -80,16 +80,16 @@ By the end of this project, users will have access to:
 
 
 4.	Authors
-1. G.K.A.J. De Silva: ashan.jayamal@gmail.com
-2. P. Hasaru Kavishka Silva: hasarukavishka97gmail.com
-3. O. Randi Wathsala Perera: randiwathsala8@gmail.com
-4. M.A.C.C. Pabasara: chanika.chameli@gmail.com
-5.	P. L. Sanduni Malshani: sandunimalshani1212@gmail.com
-6.	K.H.H. Priyanvada: harshipriyanvada2004@gmail.com
-7.	B. Malavipathirana: malavi.bhagya@gmail.com
-8.	Vasandaamani Murugappan: vasu.muru65@gmail.com
-9.	V. P. Vidura Lakmal: viduralakmal07@gmail.com
-10.	⁠H. A. Dulari Udayanthi Perera: haduperera@gmail.com
+   G.K.A.J. De Silva: ashan.jayamal@gmail.com
+   P. Hasaru Kavishka Silva: hasarukavishka97@gmail.com
+   O. Randi Wathsala Perera: randiwathsala8@gmail.com
+   M.A.C.C. Pabasara: chanika.chameli@gmail.com
+   P. L. Sanduni Malshani: sandunimalshani1212@gmail.com
+   K.H.H. Priyanvada: harshipriyanvada2004@gmail.com
+   B. Malavipathirana: malavi.bhagya@gmail.com
+   Vasandaamani Murugappan: vasu.muru65@gmail.com
+   V. P. Vidura Lakmal: viduralakmal07@gmail.com
+	⁠H. A. Dulari Udayanthi Perera: haduperera@gmail.com
 
 5.	Screenshots and Demo
  
